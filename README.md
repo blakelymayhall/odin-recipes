@@ -13,3 +13,9 @@ But it's important to keep in mind that this project is just to build your HTML 
 Learned that I accidentially already knew / used some CSS in the past
 
 What was excersized was using html tags to accomplish writing a barebones website
+
+## Updated 1/3 after Intro to CSS:
+
+I learned what CSS was specifically and modified this project to move to an external CSS method
+as well as add some other things in that I learned from the intro to CSS. Its very basic, but 
+that is what I prefer in my recipe sites. 

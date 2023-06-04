@@ -1,0 +1,20 @@
+p, li
+{
+    width:400px; 
+    word-wrap:break-word;
+}
+
+h1 
+{
+    text-decoration: underline;
+}
+
+p
+{
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+}
+
+ol li
+{
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+}
